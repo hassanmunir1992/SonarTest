@@ -28,9 +28,6 @@ public class MainActivity extends AppCompatActivity {
         tx1 = (TextView)findViewById(R.id.textView3);
         tx1.setVisibility(View.GONE);
 
-        int a=1/0;
-
-        int a=12;
 
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
